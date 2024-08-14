@@ -1,0 +1,30 @@
+.header{
+    font-size: larger;
+}
+h3{
+    text-decoration: overline;
+    font-size: 30px;
+    color: hotpink;
+    font-family: 'Courier New', Courier, monospace;
+}
+.consectetur{
+    font-size: 25px;
+    border: 2px solid purple;
+    margin: 20px;
+    display: inline-block;
+}
+.blog{
+    margin: 20px;
+    border:10px solid tomato;
+    padding: 5px;
+    box-shadow: 10px 10px 20px 13px blueviolet;
+
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+
+}
+li{
+    display: inline-block;
+}
